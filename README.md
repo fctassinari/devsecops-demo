@@ -1,3 +1,4 @@
+[Lab - Security Devops](https://github.com/RedHatDemos/SecurityDemos/blob/master/2021Labs/OpenShiftSecurity/documentation/lab4.adoc)<br>
 # DevSecOps Pipeline Demo
 
 [![Watch the video](https://github.com/rcarrata/devsecops-demo/blob/main/docs/pics/demo_overview.png)](https://www.youtube.com/watch?v=uA7nUYchY5Q&ab_channel=RobertoCarratal%C3%A1)
