@@ -7,7 +7,7 @@
 #    - name: 'Install Gitops'
 #      include_role:
 #        name: "ocp4-install-gitops"
-
+#####
     - name: 'Install CICD Infra'
       include_role:
         name: "ocp4-install-cicd"
